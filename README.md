@@ -1,34 +1,96 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 13 Tutorial Project
 
-## Getting Started
+This project follows a comprehensive tutorial covering various aspects of building an application using Next.js 13.
 
-First, run the development server:
+## Topics Covered
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- **Introduction to the Course and Summary of Updates**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  - An overview of the new features introduced in Next.js 13.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Starting The Project from Scratch**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+  - Initial project setup and configuration for Next.js 13.
 
-## Learn More
+- **Installing the Linter (Standard)**
 
-To learn more about Next.js, take a look at the following resources:
+  - Setting up code linting using Standard.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Creating the Main Route**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+  - Developing the main route for the application.
 
-## Deploy on Vercel
+- **First Layout**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  - Designing and implementing the first layout.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Nested Routes with Directories**
+
+  - Understanding and creating nested routes using directories.
+
+- **Links to Internal Pages**
+
+  - Creating and managing internal links within the application.
+
+- **Loading Global Styles**
+
+  - Incorporating global styles into the application.
+
+- **Local Styles with CSS Modules**
+
+  - Implementing component-specific styles using CSS Modules.
+
+- **Dynamic Routes in the Path**
+
+  - Creating dynamic routes for flexible navigation.
+
+- **Data Fetching**
+
+  - Fetching data for the application.
+
+- **React Server Components**
+
+  - Introduction to and usage of React Server Components.
+
+- **Creating Client Components for React in Next 13**
+
+  - Building client-side components in Next.js 13.
+
+- **Creating Static Pages with getStaticProps**
+
+  - Generating static pages using getStaticProps.
+
+- **Creating Pages with Server Side Rendering or getServerSideProps**
+
+  - Server-side rendering of pages using getServerSideProps.
+
+- **Incremental Static Regeneration**
+
+  - Utilizing Incremental Static Regeneration for efficient re-rendering.
+
+- **Layout State Persistence**
+
+  - Understanding and maintaining layout state.
+
+- **Loading.jsx File for HTML Streaming**
+
+  - Implementing loading states with HTML streaming.
+
+- **Error Control with error.jsx**
+
+  - Handling errors within the application.
+
+- **Grouping Routes to Share Layout**
+
+  - Organizing routes to reuse layouts.
+
+- **Testing Turbopack**
+
+  - Experiencing the power of Turbopack in Next.js 13.
+
+- **Loading Fonts with next/font**
+
+  - Implementing custom fonts using next/font.
+
+- **Using the Image Component**
+  - Working with the Image component for efficient image handling.
