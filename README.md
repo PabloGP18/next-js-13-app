@@ -12,7 +12,7 @@ This project follows a comprehensive tutorial covering various aspects of buildi
 
   - Initial project setup and configuration for Next.js 13.
 
-- **Installing the Linter (Standard)**
+- **Installing Linter (Standard)**
 
   - Setting up code linting using Standard.
 
