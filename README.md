@@ -74,7 +74,7 @@ This project follows a comprehensive tutorial covering various aspects of buildi
 
 - **Loading.jsx File for HTML Streaming**
 
-  - Implementing loading states with HTML streaming.
+  - Implementing loading states with HTML-streaming.
 
 - **Error Control with error.jsx**
 
