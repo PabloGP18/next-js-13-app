@@ -1,5 +1,6 @@
 import Image from 'next/image'
 // this is a react server component
+// eslint-disable-next-line space-before-function-paren
 export const fetchComments = async ({ id }) => {
   // making the page wait 3 seconds to load
   await new Promise((resolve) => setTimeout(resolve, 2000))
